@@ -1,2 +1,2 @@
 # a17
-discord bot
+a17 is a discord bot.

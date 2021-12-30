@@ -1,0 +1,18 @@
+{
+    "character": [
+        {
+            "firstName": "Isaac",
+            "lastName": "Netero",
+            "fullName": "Isaac Netero",
+            "age": "110+"
+        },
+        {
+            "name": {
+                "firstName": "Chrollo",
+                "lastName": "Lucifler",
+                "fullName": "Chrollo Lucifler"
+            },
+            "age": "20"
+        }
+    ]
+}
